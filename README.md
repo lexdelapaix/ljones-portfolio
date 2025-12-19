@@ -12,7 +12,7 @@ This section contains selected vulnerability assessments completed in controlled
 
 ---
 
-# Included Analyses
+# Included Analysis
 
 ## SUID Path Hijacking — Privilege Escalation
 Analysis of improper privilege management in a SUID-root binary caused by unsafe PATH usage.  
