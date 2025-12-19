@@ -6,51 +6,37 @@ I am a cybersecurity undergraduate with hands-on experience in Linux environment
 
 All work in this portfolio was completed in **controlled lab or educational environments** and follows ethical security practices.
 
----
+# Vulnerability Analysis Projects
 
-# Cybersecurity & Infrastructure Projects
-
-- **Vulnerability Analysis**  
-  Identification, analysis, and reporting of security vulnerabilities with remediation recommendations.  
-  📁 `vulnerability-analysis/`
-
-- **Linux Security Labs**  
-  System hardening, Linux security tools, and command-line analysis.  
-  📁 `linux-security-labs/`
-
-- **Cloud Security**  
-  Cloud infrastructure and security concepts using AWS and networking labs.  
-  📁 `cloud-security/`
+This section contains selected vulnerability assessments completed in controlled training and academic environments. Each project includes a sanitized technical report with impact analysis and remediation recommendations.
 
 ---
 
-# Software & Automation
+# Included Analyses
 
-- **Scripts & Automation**  
-  Python and Bash scripts focused on problem-solving, automation, and systems interaction.  
-  📁 `scripts/`
-
----
-
-# Technical Reports & Documentation
-
-- **Security Reports**  
-  Sanitized vulnerability reports and technical documentation samples.  
-  📁 `reports/`
+## SUID Path Hijacking — Privilege Escalation
+Analysis of improper privilege management in a SUID-root binary caused by unsafe PATH usage.  
+Focus areas: Linux security, privilege escalation, secure coding practices.  
+ `suid-path-hijacking/`
 
 ---
 
-# Skills Demonstrated
-
-- Linux security tools and system hardening  
-- Vulnerability identification and reporting  
-- Network and firewall fundamentals  
-- Cloud infrastructure and security concepts (AWS)  
-- Python programming and scripting fundamentals  
-- Technical documentation and security-focused analysis  
+## JWT Security Misconfiguration — Authentication Bypass
+Evaluation of weak JWT signing secrets leading to token tampering and privilege escalation.  
+Focus areas: web security, authentication, authorization, secure key management.  
+ `jwt-security-misconfiguration/`
 
 ---
 
-📌 **Note:** Sensitive details such as credentials, IP addresses, and system identifiers have been removed.
+## Cleartext Credential Transmission — Network Traffic Analysis
+Investigation of sensitive credentials transmitted in cleartext due to missing TLS protections.  
+Focus areas: network traffic analysis, transport-layer security, secure authentication.  
+ `cleartext-credentials/`
+
+---
+
+All reports are sanitized and intended for educational demonstration only.
+
+**Note:** Sensitive details such as credentials, IP addresses, and system identifiers have been removed.
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/lexdelapaix)
