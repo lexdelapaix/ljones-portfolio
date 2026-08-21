@@ -2,7 +2,7 @@
 
 Welcome!  
 This repository serves as my professional portfolio, showcasing selected cybersecurity and software-focused projects completed through academic coursework, labs, and self-directed work.
-I am a cybersecurity undergraduate with hands-on experience in Linux environments, vulnerability analysis, system hardening, cloud infrastructure, and applied programming concepts. I also bring several years of experience working with enterprise systems, compliance-driven environments, and technical operations across military, higher education, and private-sector organizations.
+I am a BAS Cybersecurity graduate with hands-on experience in Linux environments, vulnerability analysis, system hardening, cloud infrastructure, and applied programming concepts. I also bring several years of experience working with enterprise systems, compliance-driven environments, and technical operations across military, higher education, and private-sector organizations.
 
 All work in this portfolio was completed in **controlled lab or educational environments** and follows ethical security practices.
 
