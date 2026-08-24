@@ -1,12 +1,23 @@
-# Leslie A. Jones — Cybersecurity & Software Portfolio
+# Leslie A. Jones — Cybersecurity & Cloud Security Portfolio
 
 Welcome!  
-This repository serves as my professional portfolio, showcasing selected cybersecurity and software-focused projects completed through academic coursework, labs, and self-directed work.
-I am a BAS Cybersecurity graduate with hands-on experience in Linux environments, vulnerability analysis, system hardening, cloud infrastructure, and applied programming concepts. I also bring several years of experience working with enterprise systems, compliance-driven environments, and technical operations across military, higher education, and private-sector organizations.
+This portfolio showcases hands-on work across security operations, cloud security, vulnerability analysis, Linux, Python, and security engineering.
+My experience includes investigating security alerts in OpenSearch and Suricata, analyzing web and network threats, and building an AWS-hosted SOC environment that integrates a simulated fintech application, structured security logging, Python ingestion workflows, real-world PISCES telemetry, and OpenSearch dashboards.
+I also bring extensive experience in enterprise operations, compliance-driven environments, and technical leadership across higher education, private industry, and the U.S. Navy Reserve.
+All security work shown here was completed in controlled lab, academic, or authorized training environments.
 
-All work in this portfolio was completed in **controlled lab or educational environments** and follows ethical security practices.
+# Featured Project
+Jones International Bank SOC
+Cloud-hosted security analytics and threat detection platform built on AWS EC2.
 
-# Vulnerability Analysis Projects
+Key technologies: AWS EC2, Linux, OpenSearch, Python, Flask, Suricata, JSON, SQLite
+
+Highlights:
+Built a Flask-based fintech application with authentication, MFA, transfers, administrative functions, and fraud review.
+Generated and ingested structured application security logs.
+Integrated real-world PISCES security telemetry into custom OpenSearch indexes.
+Built dashboards for investigating authentication activity, attacks, initial access, command-and-control, scanning, and other security events.
+Designed an end-to-end SOC workflow from activity generation through logging, ingestion, detection, analysis, and investigation.
 
 This section contains selected vulnerability assessments completed in controlled training and academic environments. Each project includes a sanitized technical report with impact analysis and remediation recommendations.
 
