@@ -1,1 +1,25 @@
+## Project Screenshots
 
+### System Architecture
+![System Architecture](screenshots/08-system-architecture.png)
+
+### AWS / OpenSearch Environment
+![AWS EC2 and OpenSearch Setup](screenshots/01-aws-ec2-opensearch-setup.png)
+
+### Security Telemetry Ingestion
+![PISCES Telemetry Ingestion](screenshots/02-pisces-telemetry-ingestion.png)
+
+### OpenSearch SOC Dashboard
+![OpenSearch Dashboard](screenshots/03-opensearch-dashboard.png)
+
+### Jones International Bank Application
+![Fintech Application](screenshots/04-fintech-application.png)
+
+### Fraud Review Workflow
+![Fraud Review](screenshots/05-fraud-review.png)
+
+### Security Event Logging
+![Security Event Logging](screenshots/06-security-event-logging.png)
+
+### Threat Investigation
+![Threat Investigation](screenshots/07-threat-investigation.png)
