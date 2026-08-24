@@ -1,1 +1,73 @@
-AWS-hosted cloud security analytics and threat detection platform built with OpenSearch, Python, Flask, and real-world security telemetry.
+# Jones International Bank SOC
+
+Cloud-native security analytics and threat detection platform built on AWS EC2.
+
+## Overview
+
+Jones International Bank SOC is a senior cybersecurity capstone project designed to simulate an end-to-end Security Operations Center workflow.
+
+The environment combines a Flask-based fintech application, structured application logging, Python ingestion workflows, real-world PISCES security telemetry, and OpenSearch dashboards for security monitoring and investigation.
+
+## Architecture
+
+Authenticated Users / Simulated Attackers
+        ↓
+Flask Fintech Application
+        ↓
+JSON Security Logs
+        ↓
+Python Ingestion Pipeline
+        ↓
+Detection & Analysis
+        ↓
+OpenSearch
+        ↓
+SOC Dashboards & Investigation
+
+## Technologies
+
+- AWS EC2
+- Linux
+- OpenSearch
+- Python
+- Flask
+- Suricata
+- JSON
+- SQLite
+- Docker
+
+## Key Features
+
+- Authentication and MFA
+- Financial transaction simulation
+- Administrative functionality
+- Fraud review workflow
+- Structured security-event logging
+- Security telemetry ingestion
+- Custom OpenSearch indexes
+- Threat investigation dashboards
+- Analysis of initial access, command-and-control, scanning, exploit activity, and authentication events
+
+## What I Built
+
+I configured the AWS-hosted environment, installed and configured OpenSearch, developed the Flask banking simulator, generated structured security events, imported real-world PISCES telemetry, built Python ingestion workflows, created custom OpenSearch indexes, and developed dashboards for investigation and security monitoring.
+
+## Security Operations Workflow
+
+The project follows an end-to-end analyst workflow:
+
+1. Generate application and attack activity
+2. Capture structured security logs
+3. Ingest and normalize telemetry
+4. Analyze events using OpenSearch
+5. Identify suspicious patterns and attack categories
+6. Investigate events using dashboards and detailed records
+7. Prioritize findings for analyst review
+
+## Project Goals
+
+The goal was to understand how a modern SOC works beyond simply reviewing existing alerts by building the environment that generates, ingests, analyzes, and presents security telemetry.
+
+## Disclaimer
+
+This project was developed in a controlled academic and lab environment for cybersecurity education and authorized security analysis.
