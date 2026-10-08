@@ -170,8 +170,6 @@ GPA: 4.0 · 2024
 * AWS Certified Solutions Architect – Associate
 * CompTIA Security+
 * AWS Certified Cloud Practitioner
-* AWS Academy Cloud Architecting
-* CompTIA Security Pro — In Progress
 
 ---
 
