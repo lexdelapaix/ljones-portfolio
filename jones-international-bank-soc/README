@@ -11,6 +11,12 @@ Jones International Bank SOC is a senior cybersecurity capstone project designed
 
 The environment combines a Flask-based fintech application, structured application logging, Python ingestion workflows, real-world PISCES security telemetry, and OpenSearch dashboards for security monitoring and investigation.
 
+## Why I Built This
+
+I wanted to understand the SOC workflow beyond the analyst perspective of reviewing alerts.
+This project focuses on the engineering behind security monitoring: generating security-relevant activity, producing structured telemetry, ingesting and normalizing that telemetry, indexing it for analysis, and building investigation views that allow an analyst to understand what happened.
+The project combines a simulated financial application with security telemetry and authorized security data to create an end-to-end investigation environment.
+
 ## Architecture
 
 Authenticated Users / Simulated Attackers
