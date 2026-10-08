@@ -1,6 +1,9 @@
 # Jones International Bank SOC
 
 Cloud-native security analytics and threat detection platform built on AWS EC2.
+Project Type: Cybersecurity Capstone / Security Engineering
+Environment: AWS EC2 / Linux
+Focus: Security telemetry, detection, investigation, and cloud-hosted security analytics
 
 ## Overview
 
