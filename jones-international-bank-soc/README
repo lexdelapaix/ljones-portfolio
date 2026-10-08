@@ -45,6 +45,28 @@ SOC Dashboards & Investigation
 - SQLite
 - Docker
 
+## Architecture Decisions
+
+### AWS EC2
+
+EC2 provided the Linux-based environment needed to host the application and security analytics components while giving me direct experience configuring and operating cloud infrastructure.
+
+### OpenSearch
+
+OpenSearch was used as the central search and analysis platform for security telemetry. Custom indexes allowed different telemetry sources to be organized for investigation and dashboard development.
+
+### Python
+
+Python was used to process security telemetry before ingestion. The ingestion workflow parses and normalizes event data so that information from different sources can be searched and analyzed consistently.
+
+### Suricata
+
+Suricata provided network security telemetry that could be analyzed alongside application and authentication activity.
+
+### Structured Logging
+
+The application generates structured security events so that activity can be queried and correlated rather than relying only on unstructured text logs.
+
 ## Key Features
 
 - Authentication and MFA
