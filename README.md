@@ -32,6 +32,3 @@ I bring 7+ years of experience leading enterprise operations involving systems, 
 My goal is to build secure, observable, and reliable cloud infrastructure and security systems.
 
 [LinkedIn](https://www.linkedin.com/in/lexdelapaix) · [Portfolio](https://github.com/lexdelapaix/ljones-portfolio)
-
-
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/lexdelapaix)
